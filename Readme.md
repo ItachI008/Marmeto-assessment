@@ -13,4 +13,7 @@ https://marmetol2assessment.netlify.app/
 
 ## Issues noticed 
 - Found issues in fetching images from the API 
-- Used custom images as there was error to fetch images from API"# Marmeto-assessment" 
+- API throwing error while fetching image
+
+## Solution
+- Used custom Images for completing the assessment
